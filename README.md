@@ -8,6 +8,6 @@ Thanks for checking out this front-end coding challenge.
 
 ## screenshot of my solutions
 
-![](images/theme1.jpg)
-![](images/theme2.jpg)
-![](images/theme3.jpg)
+![](images/theme1.jpg raw=true "theme1")
+![](images/theme2.jpg raw=true "theme2")
+![](images/theme3.jpg raw=true "theme3")
