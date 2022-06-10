@@ -7,9 +7,9 @@ Thanks for checking out this front-end coding challenge.
 
 ### screenshot of my solutions
 
-![](images/theme1.jpg? raw=true "theme1")
-![](images/theme2.jpg? raw=true "theme2")
-![](images/theme3.jpg? raw=true "theme3")
+![](images/theme1.png? raw=true "theme1")
+![](images/theme2.png? raw=true "theme2")
+![](images/theme3.png? raw=true "theme3")
 # Frontend Mentor - E-commerce product page solution
 
 ### Links
