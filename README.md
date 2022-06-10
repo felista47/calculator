@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/felista47/calculator)
+- Solution URL: [https://github.com/felista47/calculator]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
